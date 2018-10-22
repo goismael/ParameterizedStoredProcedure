@@ -1,0 +1,10 @@
+C:\CC6\StoredProcedure\ParameterizedSP\bin\Debug\ParameterizedSP.exe.config
+C:\CC6\StoredProcedure\ParameterizedSP\bin\Debug\ParameterizedSP.exe
+C:\CC6\StoredProcedure\ParameterizedSP\bin\Debug\ParameterizedSP.pdb
+C:\CC6\StoredProcedure\ParameterizedSP\obj\Debug\ParameterizedSP.csprojAssemblyReference.cache
+C:\CC6\StoredProcedure\ParameterizedSP\obj\Debug\ParameterizedSP.Form1.resources
+C:\CC6\StoredProcedure\ParameterizedSP\obj\Debug\ParameterizedSP.Properties.Resources.resources
+C:\CC6\StoredProcedure\ParameterizedSP\obj\Debug\ParameterizedSP.csproj.GenerateResource.cache
+C:\CC6\StoredProcedure\ParameterizedSP\obj\Debug\ParameterizedSP.csproj.CoreCompileInputs.cache
+C:\CC6\StoredProcedure\ParameterizedSP\obj\Debug\ParameterizedSP.exe
+C:\CC6\StoredProcedure\ParameterizedSP\obj\Debug\ParameterizedSP.pdb

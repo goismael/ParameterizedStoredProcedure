@@ -1,0 +1,6 @@
+C:\CC6\StoredProcedure\bin\Debug\StoredProcedure.dacpac
+C:\CC6\StoredProcedure\bin\Debug\StoredProcedure.dll
+C:\CC6\StoredProcedure\bin\Debug\StoredProcedure.pdb
+C:\CC6\StoredProcedure\obj\Debug\StoredProcedure.sqlprojAssemblyReference.cache
+C:\CC6\StoredProcedure\obj\Debug\StoredProcedure.dll
+C:\CC6\StoredProcedure\obj\Debug\StoredProcedure.pdb
